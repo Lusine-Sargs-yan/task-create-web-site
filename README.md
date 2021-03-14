@@ -1,0 +1,2 @@
+## Create web site using only html & css
+### A web site should have tags, such as h1, p, div, span, a, img, form, etc, positioning(absolute, relative), flexbox, media queries, metatags (in head section) og tag or other meta information about your site, semantic tags (header, footer, nav, main) 
